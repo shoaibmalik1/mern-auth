@@ -18,12 +18,7 @@ export default function SignUp() {
           id="email"
           type=""
         />
-          <input
-          placeholder="Github"
-          className="bg-slate-100 rounded-lg p-3"
-          id="email"
-          type=""
-        />
+       
         <input placeholder="Password" className="bg-slate-100 rounded-lg p-3"id="password" type="password" />
         <button className="bg-slate-700 text-white p-3 rounded-lg
          uppercase hover:opacity-95 disabled:opacity-80">Sign Up</button>
